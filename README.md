@@ -1,2 +1,0 @@
-# demowebbasic
-Created with CodeSandbox
